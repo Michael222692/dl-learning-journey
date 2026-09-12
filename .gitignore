@@ -1,0 +1,37 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Jupyter 临时文件
+.ipynb_checkpoints/
+
+# VS Code 本机配置
+.vscode/
+
+# 数据、模型和实验输出
+data/
+datasets/
+models/
+checkpoints/
+outputs/
+results/
+
+# 大型科研文件
+*.tif
+*.tiff
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+
+# 压缩包
+*.zip
+*.tar
+*.gz
+
+# 系统文件
+.DS_Store
+Thumbs.db
